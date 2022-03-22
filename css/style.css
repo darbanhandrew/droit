@@ -1,0 +1,37 @@
+/*
+css-selector {
+    property: value;
+}
+*/
+#main {
+  background-color: black;
+  max-width: 1000px;
+}
+#container {
+  background-color: inherit;
+}
+#row {
+  background-color: inherit;
+}
+#text {
+  background-color: inherit;
+  color: aliceblue;
+}
+#image {
+  background-color: white;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+}
+#image img {
+  width: 100%;
+}
+.left {
+  float: left;
+  display: inline-block;
+  width: 40%;
+}
+.right {
+  float: right;
+  display: inline-block;
+  width: 40%;
+}
