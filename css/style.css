@@ -5,7 +5,7 @@ css-selector {
 */
 #main {
   background-color: black;
-  max-width: 10000px;
+  max-width: 100px;
 }
 #container {
   background-color: inherit;
